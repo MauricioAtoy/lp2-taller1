@@ -7,9 +7,9 @@
 
 ## Autores
 
-- [@estudiante1](https://www.github.com/estudiante1)
-- [@estudiante2](https://www.github.com/estudiante2)
+- [@estudiante1](https://github.com/MauricioAtoy)
 
+##Javier Mauricio Llanos Atoy
 ## Descripción del Proyecto
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam ut quam dolor. Quisque elementum est sed massa gravida convallis. Donec volutpat turpis eget lectus feugiat congue. Morbi rutrum auctor eleifend. Etiam iaculis libero tellus, vel aliquet erat tempor sed. Duis efficitur quam vel sapien luctus, sed semper lacus mollis. Suspendisse non nunc eleifend, aliquet elit eget, condimentum augue.
